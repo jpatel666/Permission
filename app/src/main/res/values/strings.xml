@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pemission</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="permission_warning">* If you not allow this permission, application will not work properly *</string>
+    <string name="permission_text">This permission allows status saver for whatsapp to read and write to your device storage for receiving and sharing files.</string>
+
+</resources>
